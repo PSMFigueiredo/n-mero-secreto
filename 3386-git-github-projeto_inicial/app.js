@@ -69,5 +69,5 @@ function reiniciarJogo() {
 
 
 
-
+//alteracao pro git
 
